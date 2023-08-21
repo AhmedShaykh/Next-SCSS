@@ -1,4 +1,4 @@
-# Next.js latest starter
+# Next.JS SCSS Latest Starter!
 
 🇺🇸 [English](./README_EN.md)
 
